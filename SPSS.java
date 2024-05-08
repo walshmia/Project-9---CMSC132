@@ -8,7 +8,7 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Scanner;
 
-/*  Mia Walsh, mwalsh27, 119691915, CMSC132 - 0303 
+/*  Mia Walsh, CMSC132 - 0303 
  * This class represents a submission server and uses a HashMap to keep
  * track of students and their submissions. A submission server has 
  * integers representing the number of tests, students, and submissions.
